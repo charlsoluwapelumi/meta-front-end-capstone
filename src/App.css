@@ -208,6 +208,11 @@ main {
   font-size: 18px;
 }
 
+.footer-item:hover {
+  text-decoration: underline;
+  color: #495e57;
+}
+
 form {
   background-color: #faecdc;
   width: 65%;
